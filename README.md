@@ -1,3 +1,3 @@
 # Catstronauts - server
 
-GrahQL test app
+GraphQL test app
